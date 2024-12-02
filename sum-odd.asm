@@ -2,7 +2,7 @@
 ;23-NTU-CS-FL-1158
 ;BS-SE3A
 ;Home Task Lab 10
-;Task 4 (Sum of odd numbers)
+;Task 4 (Sum of odd numbers) (Lab 10)
 include irvine32.inc
 .data
 array sword 1,3,5,7,9,2,4,6,8,10                          ;Array of numbers
